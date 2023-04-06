@@ -1,0 +1,12 @@
+Build
+**.filters
+**.vcxproj
+**.sln
+**.exe
+*.user
+.vscode/settings.json
+*.db
+*.ipch
+.vs/*
+
+.vscode/

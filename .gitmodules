@@ -1,0 +1,3 @@
+[submodule "FryEngineTDD"]
+	path = FryEngineTDD
+	url = https://github.com/Schtekt/FryEngineTDD.git
