@@ -1,4 +1,9 @@
 # FryFall
+## First time downloading the repo
+Make sure to initialize all submodules with the following command
+
+    git submodule update --init --recursive
+
 ## Prerequisites
 To be able to build the application program, three things are necessary.
 
